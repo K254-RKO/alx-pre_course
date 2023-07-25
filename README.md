@@ -1,0 +1,1 @@
+My first readme# Press 'Ctrl + D' after typing the content to save the file# Add the new file and any other changes to the staging areagit add .# Commit the changes with the commit message "My first commit"git commit -m "My first commit"# Push the changes to the remote server (origin)git push origin master
